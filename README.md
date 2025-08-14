@@ -7,7 +7,7 @@
 
 
 ### 🌟 About Me  
-- 🎓 Graduated from IIITA 
+- 🎓 Graduated from **IIITA** 
 - 💻 Passionate about building **scalable backend systems** & **beautiful UIs**  
 - 🔭 Working with **Java Spring Boot, React, Node.js, MongoDB**  
 
