@@ -1,12 +1,10 @@
 # Nabajit-Boro
 
 <h1 align="center">Hey there! 👋 I'm Nabajit Boro</h1>
-
 <p align="center">
   🚀 Software Engineer | 💡 Problem Solver | 🔍 Always curious  
 </p>
 
----
 
 ### 🌟 About Me  
 - 💻 Passionate about building **scalable backend systems** & **beautiful UIs**  
