@@ -15,10 +15,15 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NabajitBoro&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NabajitBoro&layout=compact&theme=tokyonight" alt="Top languages" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=nabajit-cpu&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
+
+### 🗂 Most Used Languages
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabajit-cpu&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
 
 ### 🔗 Connect with Me
 <p align="left">
